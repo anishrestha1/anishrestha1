@@ -45,3 +45,6 @@
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
+
+### Github Analytics
+https://github-readme-stats.vercel.app/api?username=anishrestha1&count_private=true&show_icons=true&theme=radical
