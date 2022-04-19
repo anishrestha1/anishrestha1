@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Artificial Intelligence
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Website](https://anishvarshrestha.com.np/)
-- 😄 Pronouns: Ah-NEESH
+- 😄 Pronunciation : Ah-NEESH
 - ⚡ Fun fact: I am wannabe Oscar Dos Santos
 
 
