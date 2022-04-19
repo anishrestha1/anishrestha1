@@ -10,6 +10,23 @@
 - ⚡ Fun fact: I am wannabe Oscar Dos Santos
 
 
+### Skills
+<div id="badges">
+  <a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript Badge"/>
+  </a>
+  
+</div>
+
 ### Reach Me On
 <div id="badges">
   <a href="https://www.linkedin.com/in/anish-var-shrestha-03530a132/">
