@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Ah-NEESH
 - ⚡ Fun fact: I am wannabe Oscar Dos Santos
 
-![GitHub Stats](https://github-readme-stats.vercel.api?username=anishrestha1&theme=radical)
+
