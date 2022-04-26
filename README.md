@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on G & D Developers
-- 🌱 I’m currently learning Python & It's Appliances
+- 🌱 I’m currently learning Professionalism
 - 👯 I’m looking to collaborate on Artificial Intelligence
 - 💬 Ask me about Anything
 - 📫 How to reach me: [Website](https://anishvarshrestha.com.np/)
