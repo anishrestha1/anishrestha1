@@ -1,13 +1,3 @@
-### Hi there. Here is what I'm working On!  👋
-
-
-- 🔭 I’m currently working on [Diyo.AI](https://diyo.ai/)
-- 🌱 I’m currently learning Professionalism
-- 👯 I’m looking to collaborate on Artificial Intelligence
-- 💬 Ask me about Anything
-- 📫 How to reach me: [Website](https://anishvarshrestha.com.np/)
-- 😄 Pronunciation : Ah-NEESH
-- ⚡ Fun fact: I am wannabe Oscar Dos Santos
 
 
 ### Skills
